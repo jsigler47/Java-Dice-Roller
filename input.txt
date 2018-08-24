@@ -1,0 +1,12 @@
+// Use two dashes for comments, single line only.
+// Enter the dice to be rolled in the format:
+// XdY
+// where X is the number of dice to be rolled
+// and Y is the number of sides the die has.
+//
+// Put each die on it's own line
+5d20
+1d4
+2d6
+// Test comment.
+5d5
